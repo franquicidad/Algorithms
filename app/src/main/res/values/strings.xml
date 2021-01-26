@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectABC</string>
+    <string name="card_number">Card Number</string>
+    <string name="calcular_número_de_la_suerte">Calcular numero de la suerte</string>
+</resources>
